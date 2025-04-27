@@ -1,0 +1,12 @@
+﻿version: '3.8'
+
+services:
+  products.db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: products.db
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=StrongP@ssw0rd2025
+    ports:
+      - "1433:1433"
+    restart: always
