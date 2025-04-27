@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\context\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:context\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FA415-B941-47E8-B635-35CA8A00A09B}|..\\ProductAPI\\ProductAPI.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FA415-B941-47E8-B635-35CA8A00A09B}|..\\ProductAPI\\ProductAPI.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FA415-B941-47E8-B635-35CA8A00A09B}|..\\ProductAPI\\ProductAPI.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FA415-B941-47E8-B635-35CA8A00A09B}|..\\ProductAPI\\ProductAPI.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\productapi\\productapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415FA415-B941-47E8-B635-35CA8A00A09B}|..\\ProductAPI\\ProductAPI.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\productapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\migrations\\20250427015107_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:migrations\\20250427015107_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|c:\\users\\muril\\onedrive\\documentos\\estudos\\unitofwork-studying\\context\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE5102E-42AB-4578-8C31-3CF8D57ECB63}|UnitOfWork-Studying.csproj|solutionrelative:context\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "..\\ProductAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T02:13:55.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:04:08.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:57:09.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:40:50.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Context\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Context\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Context\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Context\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:30:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\Program.cs",
+              "RelativeToolTip": "..\\ProductAPI\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:53:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:51:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250427015107_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Migrations\\20250427015107_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250427015107_initial.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Migrations\\20250427015107_initial.cs",
+              "RelativeToolTip": "Migrations\\20250427015107_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:51:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "..\\ProductAPI\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\docker-compose.yml",
+              "RelativeToolTip": "..\\ProductAPI\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-27T01:52:31.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Domain\\Product.cs",
+              "RelativeToolTip": "Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:41:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductAPI.http",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\ProductAPI.http",
+              "RelativeDocumentMoniker": "..\\ProductAPI\\ProductAPI.http",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\ProductAPI\\ProductAPI.http",
+              "RelativeToolTip": "..\\ProductAPI\\ProductAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-27T02:24:02.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "Context\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Context\\DbContext.cs",
+              "RelativeToolTip": "Context\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:23:15.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Context\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Context\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Context\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Context\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:29:16.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:22:01.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Muril\\OneDrive\\Documentos\\estudos\\UnitOfWork-Studying\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T00:19:03.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

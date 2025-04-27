@@ -1,0 +1,14 @@
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.AssemblyInfoInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.AssemblyInfo.cs
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.csproj.CoreCompileInputs.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.csproj.AssemblyReference.cache
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\bin\Debug\net8.0\UnitOfWork-Studying.deps.json
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\bin\Debug\net8.0\UnitOfWork-Studying.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\bin\Debug\net8.0\UnitOfWork-Studying.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\refint\UnitOfWork-Studying.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.pdb
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\ref\UnitOfWork-Studying.dll
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\bin\Debug\net8.0\UnitOfWork-Studying.runtimeconfig.json
+C:\Users\Muril\OneDrive\Documentos\estudos\UnitOfWork-Studying\obj\Debug\net8.0\UnitOfWork-Studying.genruntimeconfig.cache
